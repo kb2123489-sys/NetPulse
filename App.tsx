@@ -319,7 +319,7 @@ const App: React.FC = () => {
       </main>
 
       {/* Footer */}
-      <footer className="w-full py-3 md:py-4 text-center relative z-10 border-t border-slate-800/50 bg-slate-900/50 backdrop-blur-sm shrink-0">
+      {/* <footer className="w-full py-3 md:py-4 text-center relative z-10 border-t border-slate-800/50 bg-slate-900/50 backdrop-blur-sm shrink-0">
         <div className="flex flex-col items-center gap-2 md:gap-3">
           <div className="flex items-center gap-2 text-slate-400 opacity-80 hover:opacity-100 transition-opacity">
             <Zap className="w-3.5 h-3.5 md:w-4 md:h-4 text-blue-400" />
@@ -345,7 +345,7 @@ const App: React.FC = () => {
             </button> */}
           </div>
         </div>
-      </footer>
+      </footer> */}
     </div>
   );
 };
