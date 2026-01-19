@@ -55,13 +55,13 @@ export const Header: React.FC<HeaderProps> = ({ isLoading = false }) => {
           >
             <Github className="w-5 h-5" />
           </a>
-          {/* <button
+          <button
             onClick={() => setIsSettingsOpen(true)}
             className="p-2 text-slate-400 hover:text-white transition-colors"
             aria-label={t('settings.title')}
           >
             <Settings className="w-5 h-5" />
-          </button> */}
+          </button>
         </div>
       </div>
 
