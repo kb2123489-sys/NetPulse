@@ -26,7 +26,7 @@ export const DEFAULT_API_CONFIG: APIConfig = {
   searchProvider: 'tavily',
   searchApiKey: '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',
   llmProvider: 'openai',
-  llmApiKey: 'sk-dtnjjypgxrbmmruyiduxpuanykigzyxxiptwjlvbbcyemqed',
+  llmApiKey: 'sk-ycvmoyoyzpsdcoivdowxpxetxrfndvxdizrzmaedzxccuegm',
   llmEndpoint: 'https://api.siliconflow.cn/v1', // 空表示使用官方端点
   llmModelFast: 'Qwen/Qwen2.5-7B-Instruct', // 空表示使用默认模型
   llmModelDeep: 'Qwen/Qwen2.5-7B-Instruct', // 空表示使用默认模型
